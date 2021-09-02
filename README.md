@@ -21,8 +21,8 @@ En este ejercicio se va a construír un modelo de clases para la capa lógica de
 	* Agregar la configuración de Spring.
 	* Configurar la aplicación -mediante anotaciones- para que el esquema de persistencia sea inyectado al momento de ser creado el bean 'BlueprintServices'.
 
-
-2. Complete los operaciones getBluePrint() y getBlueprintsByAuthor(). Implemente todo lo requerido de las capas inferiores (por ahora, el esquema de persistencia disponible 'InMemoryBlueprintPersistence') agregando las pruebas correspondientes en 'InMemoryPersistenceTest'.
+****
+2**. Complete los operaciones getBluePrint() y getBlueprintsByAuthor().** Implemente todo lo requerido de las capas inferiores (por ahora, el esquema de persistencia disponible 'InMemoryBlueprintPersistence') agregando las pruebas correspondientes en 'InMemoryPersistenceTest'.
 
 3. Haga un programa en el que cree (mediante Spring) una instancia de BlueprintServices, y rectifique la funcionalidad del mismo: registrar planos, consultar planos, registrar planos específicos, etc.
 
@@ -34,8 +34,8 @@ En este ejercicio se va a construír un modelo de clases para la capa lógica de
 
 # Desarrollo
 
-# Taller Inductorio al manejo de Spring
-
-
 
 # Laboratorio Componentes
+
+## Parte 1
+# 1. Configuración de la aplicación 

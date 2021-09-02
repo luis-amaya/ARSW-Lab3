@@ -38,7 +38,26 @@ En este ejercicio se va a construír un modelo de clases para la capa lógica de
 # Laboratorio Componentes
 
 ## Parte 1
-# 1. Configuración de la aplicación 
+
+### 1. Configuración de la aplicación 
 
 - Se añadieron las dependencias faltantes para la configuración de la aplicación.
-![](./img/media/solve/dependencias.png)
+![](./img/solve/dependencias.png)
+
+## Parte 2
+
+- Pruebas funcionamiento getBluePrint() y getBlueprintsByAuthor()
+![](./img/solve/TestPunto2.PNG)
+
+## Parte 3
+
+- Haga un programa en el que cree (mediante Spring) una instancia de BlueprintServices, y rectifique la funcionalidad del mismo: registrar planos, consultar planos, registrar planos específicos, etc.
+![](./img/solve/Punto3.png)
+
+## Parte 4 y 5
+
+- Se adjunta imagen de las pruebas realizadas en los filtros de la parte 4 y 5.
+![](./img/solve/Pruebas5.PNG)
+
+
+

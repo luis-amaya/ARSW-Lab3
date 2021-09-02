@@ -39,3 +39,6 @@ En este ejercicio se va a construír un modelo de clases para la capa lógica de
 
 ## Parte 1
 # 1. Configuración de la aplicación 
+
+- Se añadieron las dependencias faltantes para la configuración de la aplicación.
+![](./img/media/solve/dependencias.png)
